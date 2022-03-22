@@ -1,1 +1,1 @@
-App that simulates a dice roll.
+App to test the "Toast" widget from Android.
